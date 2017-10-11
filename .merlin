@@ -1,0 +1,3 @@
+S .
+B _build
+PKG  js_of_ocaml-lwt js_of_ocaml.ppx lwt.ppx

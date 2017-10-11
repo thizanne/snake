@@ -1,0 +1,3 @@
+* Snake
+
+A basic snake game with js_of_ocaml.
